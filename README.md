@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @komalsibraan
-- 👀 I’m interested in Startup
+- 👀 I’m passionate about Web Development
 - 🌱 I’m currently learning full stack Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
