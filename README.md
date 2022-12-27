@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @komalsibraan
-- 👀 I’m passionate about Web Development
-- 🌱 I’m currently learning full stack Web Development
+- 👀 I’m Google DSC Lead at GEC Sheikhpura 
+- 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...komalkri2967@gmail.com
 - 💬 Ask me about HTML5, CSS, C programming, JS
-- 
- 
+- ![An image of @komal7979's Holopin badges,
+ which is a link to view their full Holopin profile](https://holopin.me/komal7979)](https://holopin.io/@komal7979)
 
 
 <!---
